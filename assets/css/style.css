@@ -225,6 +225,7 @@ header .btn-group {
   visibility: hidden;
   transition: 0.5s cubic-bezier(1, 0, 0.30, 0.70);
   z-index: 10;
+  height: fit-content;
 }
 
 .mobile-nav.active {
